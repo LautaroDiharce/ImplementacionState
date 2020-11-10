@@ -1,0 +1,11 @@
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.exe.config
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.exe
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.pdb
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.Properties.Resources.resources
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.Form1.resources
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.UIs.PantallaFinalizarPreparacionPedido.resources
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.exe
+C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.pdb
