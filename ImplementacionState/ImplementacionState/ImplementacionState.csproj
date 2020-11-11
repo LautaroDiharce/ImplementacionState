@@ -50,9 +50,7 @@
     <Compile Include="Clases\EnPreparaciopn.cs" />
     <Compile Include="Clases\Estado.cs" />
     <Compile Include="Clases\DetallePedido.cs" />
-    <Compile Include="..\..\..\..\..\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\GestorFinalizarPreparacionPedido.cs">
-      <Link>Clases\GestorFinalizarPreparacionPedido.cs</Link>
-    </Compile>
+    <Compile Include="Clases\GestorFinalizarPreparacionPedido.cs" />
     <Compile Include="Clases\HistorialEstado.cs" />
     <Compile Include="Clases\Menu.cs" />
     <Compile Include="Clases\Mesa.cs" />
