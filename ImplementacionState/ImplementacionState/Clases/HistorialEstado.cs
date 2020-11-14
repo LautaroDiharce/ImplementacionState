@@ -8,15 +8,27 @@ namespace ImplementacionState.Clases
 {
     public class HistorialEstado
     {
-        public DateTime horaInnicio { get; set; }
-        public DateTime horaFin { get; set; }
+        public DateTime horaInicio { get; set; }
+        public Nullable<DateTime> horaFin { get; set; }
         public Estado estado { get; set; }
 
-        public HistorialEstado(DateTime horaInnicio, DateTime horaFin, Estado estado)
+        public HistorialEstado(DateTime horaInnicio, Estado estado, Nullable<DateTime> horaFin = null)
         {
-            this.horaInnicio = horaInnicio;
+            this.horaInicio = horaInnicio;
             this.horaFin = horaFin;
             this.estado = estado;
         }
+        public bool obtenerUltimoEstado() 
+        {
+            if (horaFin == null)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
     }
 }

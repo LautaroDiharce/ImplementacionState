@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace ImplementacionState.Clases
 {
-    public class PendienteDePreparacion
+    public class PendienteDePreparacion : Estado
     {
+        public PendienteDePreparacion()
+        {
+            this.ambito = "Detalle de pedido";
+            this.nombre = "Pendiente de preparacion";
+        }
     }
 }

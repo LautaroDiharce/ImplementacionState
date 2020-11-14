@@ -16,7 +16,7 @@ namespace ImplementacionState
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new UIs.PantallaFinalizarPreparacionPedido());
+            Application.Run(new UIs.PantallaInicial());
         }
     }
 }

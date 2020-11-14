@@ -16,5 +16,7 @@ namespace ImplementacionState.Clases
             this.nombre = nombre;
             this.precio = precio;
         }
+
+     
     }
 }

@@ -12,14 +12,14 @@ namespace ImplementacionState.Clases
         public string forma { get; set; }
         public int numero { get; set; }
 
-        public List<Pedido> pedidos { get; set; }
+        public string mozo { get; set; }
 
-        public Mesa(int capacidad, string forma, int numero, List<Pedido> pedidos)
+        public Mesa(int capacidad, string forma, int numero,string mozo)
         {
             this.capacidad = capacidad;
             this.forma = forma;
             this.numero = numero;
-            this.pedidos = pedidos;
+            this.mozo = mozo;
         }
     }
 }

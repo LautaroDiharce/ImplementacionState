@@ -9,3 +9,16 @@ C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\Implementacion
 C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csproj.CoreCompileInputs.cache
 C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.exe
 C:\Users\lauta\source\repos\ImplementacionDSI\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.pdb
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.exe.config
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.exe
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\bin\Debug\ImplementacionState.pdb
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csprojAssemblyReference.cache
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.Properties.Resources.resources
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.UIs.PantallaFinalizarPreparacionPedido.resources
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csproj.GenerateResource.cache
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.exe
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.pdb
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.UIs.PantallaInicial.resources
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.UIs.ConfirmarDetalles.resources
+C:\Users\lauta\OneDrive\Desktop\UTN\DSI\2020\PPAI\VS-implementacion\ImplementacionState\ImplementacionState\ImplementacionState\obj\Debug\ImplementacionState.UIs.VisualListoParaSevir.resources

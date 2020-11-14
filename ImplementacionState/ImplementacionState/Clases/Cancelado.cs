@@ -5,8 +5,18 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ImplementacionState.Clases
+
 {
-    public class Cancelado
+    class Cancelado : Estado
     {
+        public Cancelado()
+        {
+            this.ambito = "Detalle de pedido";
+            this.nombre = "Cancelado";
+        }
+        public void Cancelar()
+        {
+            base.cancelar();
+        }
     }
 }

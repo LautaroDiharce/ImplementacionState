@@ -13,11 +13,16 @@ namespace ImplementacionState.Clases
         
         public Producto producto { get; set; }
 
-        public ProductoDeCarta(string nombre, double precio, Producto producto)
+        public ProductoDeCarta(Producto producto)
         {
-            this.nombre = nombre;
-            this.precio = precio;
+            this.nombre = producto.nombre;
+            this.precio = producto.precio;
             this.producto = producto;
+        }
+
+        public string mostrarProducto()
+        {
+            return producto.nombre;
         }
     }
 }
